@@ -23,7 +23,7 @@ I used only HTML and CSS to complete this challange.
 
 ### What I learned
 
-In order to make the page responsive I learnt about CSS Midea Queries and Flex Box to finish this project.
+In order to make the page responsive I learnt about CSS Midea Queries and Flex Box.
 I used Midea Queries to specify different widths and font sizes for different screen sizes.
 And I used Flex Box to center the elements both horizentally and vertically.
 
