@@ -29,7 +29,7 @@ And I used Flexbox to center the elements both horizentally and vertically.
 
 ### Continued development
 
-I aim to focus on having a better understanding and deployment of CSS Media Queries and learing about CSS grid.
+I aim to focus on having a better understanding and deployment of CSS Media Queries and learing about CSS Grid.
 
 ## Author
 
