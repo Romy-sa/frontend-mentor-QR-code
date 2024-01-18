@@ -18,14 +18,14 @@ I used only HTML and CSS to complete this challange.
 ### Built with
 
 - Semantic HTML5 markup
-- CSS Midea Queries
+- CSS Media Queries
 - Flexbox
 
 ### What I learned
 
-In order to make the page responsive I learnt about CSS Midea Queries and Flex Box.
-I used Midea Queries to specify different widths and font sizes for different screen sizes.
-And I used Flex Box to center the elements both horizentally and vertically.
+In order to make the page responsive I learnt about CSS Media Queries and Flexbox.
+I used Media Queries to specify different widths and font sizes for different screen sizes.
+And I used Flexbox to center the elements both horizentally and vertically.
 
 ### Continued development
 
